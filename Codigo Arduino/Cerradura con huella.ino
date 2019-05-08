@@ -1,8 +1,3 @@
-/*  Webpage: https://www.electronoobs.com/eng_arduino_tut41.php
- *  Schematic: https://www.electronoobs.com/eng_arduino_tut40_sch1.php
- *  Code: https://www.electronoobs.com/eng_arduino_tut40_code3.php
- *  Youtube Channel: https://www.youtube.com/c/Electronoobs */
-
 ////////////////////////////////////INCLUDE ALL LIBRARIES/////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 #include <Wire.h> 
